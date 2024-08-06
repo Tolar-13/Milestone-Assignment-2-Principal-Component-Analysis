@@ -106,7 +106,7 @@ The scatter plot reveals distinct clusters representing malignant and benign tum
 
 ## Logistic Regression
 
-logistic regression is implemented using the reduced dataset (2 PCA components) to predict cancer diagnoses. The steps involved in this analysis include:
+Logistic regression is implemented using the reduced dataset (2 PCA components) to predict cancer diagnoses. The steps involved in this analysis include:
 
 1. **Data Splitting**: Dividing the dataset into training and testing sets to evaluate the model's performance.
 
